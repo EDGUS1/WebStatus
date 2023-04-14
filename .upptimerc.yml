@@ -17,6 +17,8 @@ sites:
     url: https://silabosvelte.netlify.app
   - name: SistemaVacunacion
     url: https://sistema-vacunacion.onrender.com/
+  - name: GaleriaWc
+    url: https://edgus1.github.io/galeria-wc/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
