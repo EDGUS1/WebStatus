@@ -16,7 +16,7 @@
     "timeMonth": 308,
     "timeYear": 308,
     "dailyMinutesDown": {
-      "2023-04-14": 88
+      "2023-04-14": 95
     }
   },
   {
@@ -43,18 +43,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "scrattech",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 305,
     "timeDay": 305,
     "timeWeek": 305,
     "timeMonth": 305,
     "timeYear": 305,
     "dailyMinutesDown": {
-      "2023-04-14": 88
+      "2023-04-14": 94
     }
   },
   {
@@ -116,19 +116,19 @@
     "url": "https://sistema-vacunacion.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sistema-vacunacion.onrender.com.ico",
     "slug": "sistema-vacunacion",
-    "status": "down",
-    "uptime": "89.18%",
-    "uptimeDay": "89.18%",
-    "uptimeWeek": "89.18%",
-    "uptimeMonth": "89.18%",
-    "uptimeYear": "89.18%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "18.30%",
+    "uptimeDay": "18.30%",
+    "uptimeWeek": "18.30%",
+    "uptimeMonth": "18.30%",
+    "uptimeYear": "18.30%",
+    "time": 667,
+    "timeDay": 667,
+    "timeWeek": 667,
+    "timeMonth": 667,
+    "timeYear": 667,
     "dailyMinutesDown": {
-      "2023-04-14": 0
+      "2023-04-14": 7
     }
   }
 ]
