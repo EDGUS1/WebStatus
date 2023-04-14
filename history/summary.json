@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/priceviz.onrender.com.ico",
     "slug": "priceviz",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 308,
-    "timeDay": 308,
-    "timeWeek": 308,
-    "timeMonth": 308,
-    "timeYear": 308,
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
+    "time": 371,
+    "timeDay": 371,
+    "timeWeek": 371,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {
-      "2023-04-14": 95
+      "2023-04-14": 217
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 5184,
-    "timeDay": 5184,
-    "timeWeek": 5184,
-    "timeMonth": 5184,
-    "timeYear": 5184,
+    "time": 3568,
+    "timeDay": 3568,
+    "timeWeek": 3568,
+    "timeMonth": 3568,
+    "timeYear": 3568,
     "dailyMinutesDown": {}
   },
   {
@@ -48,13 +48,13 @@
     "uptimeWeek": "0.01%",
     "uptimeMonth": "0.01%",
     "uptimeYear": "0.01%",
-    "time": 305,
-    "timeDay": 305,
-    "timeWeek": 305,
-    "timeMonth": 305,
-    "timeYear": 305,
+    "time": 301,
+    "timeDay": 301,
+    "timeWeek": 301,
+    "timeMonth": 301,
+    "timeYear": 301,
     "dailyMinutesDown": {
-      "2023-04-14": 94
+      "2023-04-14": 217
     }
   },
   {
@@ -68,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 465,
-    "timeDay": 465,
-    "timeWeek": 465,
-    "timeMonth": 465,
-    "timeYear": 465,
+    "time": 527,
+    "timeDay": 527,
+    "timeWeek": 527,
+    "timeMonth": 527,
+    "timeYear": 527,
     "dailyMinutesDown": {}
   },
   {
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 282,
-    "timeWeek": 282,
-    "timeMonth": 282,
-    "timeYear": 282,
+    "time": 288,
+    "timeDay": 288,
+    "timeWeek": 288,
+    "timeMonth": 288,
+    "timeYear": 288,
     "dailyMinutesDown": {}
   },
   {
@@ -104,11 +104,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 250,
-    "timeDay": 250,
-    "timeWeek": 250,
-    "timeMonth": 250,
-    "timeYear": 250,
+    "time": 323,
+    "timeDay": 323,
+    "timeWeek": 323,
+    "timeMonth": 323,
+    "timeYear": 323,
     "dailyMinutesDown": {}
   },
   {
@@ -117,18 +117,34 @@
     "icon": "https://icons.duckduckgo.com/ip3/sistema-vacunacion.onrender.com.ico",
     "slug": "sistema-vacunacion",
     "status": "up",
-    "uptime": "18.30%",
-    "uptimeDay": "18.30%",
-    "uptimeWeek": "18.30%",
-    "uptimeMonth": "18.30%",
-    "uptimeYear": "18.30%",
-    "time": 667,
-    "timeDay": 667,
-    "timeWeek": 667,
-    "timeMonth": 667,
-    "timeYear": 667,
-    "dailyMinutesDown": {
-      "2023-04-14": 7
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1238,
+    "timeDay": 1238,
+    "timeWeek": 1238,
+    "timeMonth": 1238,
+    "timeYear": 1238,
+    "dailyMinutesDown": {}
+  },
+  {
+    "name": "GaleriaWc",
+    "url": "https://edgus1.github.io/galeria-wc/",
+    "icon": "https://icons.duckduckgo.com/ip3/edgus1.github.io.ico",
+    "slug": "galeria-wc",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 220,
+    "timeDay": 220,
+    "timeWeek": 220,
+    "timeMonth": 220,
+    "timeYear": 220,
+    "dailyMinutesDown": {}
   }
 ]
