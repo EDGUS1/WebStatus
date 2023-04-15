@@ -16,7 +16,7 @@
     "timeMonth": 374,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2023-04-15": 30,
+      "2023-04-15": 257,
       "2023-04-14": 654
     }
   },
@@ -25,18 +25,20 @@
     "url": "https://soe-iw6w.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/soe-iw6w.onrender.com.ico",
     "slug": "soe",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.82%",
+    "uptimeDay": "99.82%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.82%",
+    "uptimeYear": "99.82%",
     "time": 2773,
     "timeDay": 2773,
     "timeWeek": 2773,
     "timeMonth": 2773,
     "timeYear": 2773,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-15": 2
+    }
   },
   {
     "name": "Scrattech",
@@ -55,7 +57,7 @@
     "timeMonth": 328,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2023-04-15": 30,
+      "2023-04-15": 257,
       "2023-04-14": 654
     }
   },
@@ -118,18 +120,20 @@
     "url": "https://sistema-vacunacion.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sistema-vacunacion.onrender.com.ico",
     "slug": "sistema-vacunacion",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1189,
     "timeDay": 1189,
     "timeWeek": 1189,
     "timeMonth": 1189,
     "timeYear": 1189,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-15": 0
+    }
   },
   {
     "name": "GaleriaWc",
