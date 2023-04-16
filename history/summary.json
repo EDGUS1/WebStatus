@@ -16,7 +16,7 @@
     "timeMonth": 386,
     "timeYear": 386,
     "dailyMinutesDown": {
-      "2023-04-16": 1341,
+      "2023-04-16": 1348,
       "2023-04-15": 1440,
       "2023-04-14": 654
     }
@@ -56,7 +56,7 @@
     "timeMonth": 355,
     "timeYear": 355,
     "dailyMinutesDown": {
-      "2023-04-16": 1341,
+      "2023-04-16": 1348,
       "2023-04-15": 1440,
       "2023-04-14": 654
     }
@@ -120,19 +120,19 @@
     "url": "https://sistema-vacunacion.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/sistema-vacunacion.onrender.com.ico",
     "slug": "sistema-vacunacion",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1069,
-    "timeDay": 706,
-    "timeWeek": 1069,
-    "timeMonth": 1069,
-    "timeYear": 1069,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "99.53%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1011,
+    "timeDay": 687,
+    "timeWeek": 1011,
+    "timeMonth": 1011,
+    "timeYear": 1011,
     "dailyMinutesDown": {
-      "2023-04-16": 0
+      "2023-04-16": 7
     }
   },
   {
