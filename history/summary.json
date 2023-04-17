@@ -16,7 +16,7 @@
     "timeMonth": 389,
     "timeYear": 389,
     "dailyMinutesDown": {
-      "2023-04-17": 28,
+      "2023-04-17": 342,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 654
@@ -45,19 +45,19 @@
     "url": "twitterscrapper-production.up.railway.app",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "scrattech",
-    "status": "down",
+    "status": "up",
     "uptime": "0.00%",
-    "uptimeDay": "0.00%",
+    "uptimeDay": "0.01%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 370,
-    "timeDay": 443,
+    "timeDay": 406,
     "timeWeek": 370,
     "timeMonth": 370,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2023-04-17": 28,
+      "2023-04-17": 342,
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 654
