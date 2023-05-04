@@ -8,7 +8,7 @@ sites:
   - name: SOE
     url: https://soe-iw6w.onrender.com/
   - name: Scrattech
-    url: twitterscrapper-production.up.railway.app
+    url: https://twitterscrapper-production.up.railway.app/
   - name: SilaboAngular
     url: https://silaboangular.netlify.app
   - name: reask
@@ -19,6 +19,8 @@ sites:
     url: https://sistema-vacunacion.onrender.com/
   - name: GaleriaWc
     url: https://edgus1.github.io/galeria-wc/
+  - name: ShareDataApp
+    url: https://share-data-app-production.up.railway.app/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
