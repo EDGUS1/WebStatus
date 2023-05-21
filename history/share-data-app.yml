@@ -1,7 +1,7 @@
 url: https://share-data-app-production.up.railway.app/
-status: up
-code: 200
-responseTime: 248
-lastUpdated: 2023-05-20T23:02:57.149Z
+status: down
+code: 503
+responseTime: 603
+lastUpdated: 2023-05-21T14:54:01.329Z
 startTime: Thu May 04 2023 03:48:03 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
