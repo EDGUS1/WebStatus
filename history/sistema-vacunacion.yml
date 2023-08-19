@@ -1,7 +1,7 @@
 url: https://sistema-vacunacion.onrender.com/
-status: down
-code: 503
-responseTime: 203
-lastUpdated: 2023-08-19T06:21:08.538Z
+status: up
+code: 200
+responseTime: 22516
+lastUpdated: 2023-08-19T07:25:09.172Z
 startTime: 2023-04-14T14:31:58.000Z
 generator: Upptime <https://github.com/upptime/upptime>
