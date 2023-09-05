@@ -1,7 +1,7 @@
 url: https://priceviz.onrender.com
-status: up
-code: 200
-responseTime: 29363
-lastUpdated: 2023-09-05T02:05:40.339Z
+status: down
+code: 503
+responseTime: 189
+lastUpdated: 2023-09-05T04:45:31.019Z
 startTime: 2023-04-14T13:05:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
